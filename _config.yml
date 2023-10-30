@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shichun Liu"
   avatar           : "images/avatar.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Fudan College"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XiLg-t0AAAAJ"
