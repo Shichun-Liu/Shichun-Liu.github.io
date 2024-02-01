@@ -37,9 +37,10 @@ Currently, I focus on Natural Language Processing, particularly in LLM Agent, mo
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+- Ye, Junjie, Xuanting Chen, Nuo Xu, Can Zu, Zekai Shao, Shichun Liu, Yuhan Cui, et al. “A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models.” arXiv,
+December 23, 2023. https://doi.org/10.48550/arXiv.2303.10420.
+- Zhang, Yue, Ming Zhang, Haipeng Yuan, Shichun Liu, Yongyao Shi, Tao Gui, Qi Zhang, and Xuanjing Huang. “LLMEval: A Preliminary Study on How to Evaluate Large Language Models.” arXiv, December 17, 2023. https://doi.org/10.48550/arXiv.2312.07398.
 
 # 🎖 Honors and Awards
 - *2022.09*, the First prize (Top 0.6% of 49242 teams) of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM).
