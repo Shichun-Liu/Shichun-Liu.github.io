@@ -38,6 +38,8 @@ Currently, I focus on Natural Language Processing, particularly in LLM Agent, mo
 </div>
 </div>
 -->
+- He, Wei, Shichun Liu, Jun Zhao, Yiwen Ding, Yi Lu, Zhiheng Xi, Tao Gui, Qi Zhang and Xuanjing Huang. “Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models.” (2024).
+- Xi, Zhiheng, Wenxiang Chen, Boyang Hong, Senjie Jin, Rui Zheng, Wei He, Yiwen Ding, Shichun Liu, Xin Guo, Junzhe Wang, Honglin Guo, Wei Shen, Xiaoran Fan, Yuhao Zhou, Shihan Dou, Xiao Wang, Xinbo Zhang, Peng Sun, Tao Gui, Qi Zhang and Xuanjing Huang. “Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning.” ArXiv abs/2402.05808 (2024).
 - Ye, Junjie, Xuanting Chen, Nuo Xu, Can Zu, Zekai Shao, Shichun Liu, Yuhan Cui, et al. “A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models.” arXiv,
 December 23, 2023. https://doi.org/10.48550/arXiv.2303.10420.
 - Zhang, Yue, Ming Zhang, Haipeng Yuan, Shichun Liu, Yongyao Shi, Tao Gui, Qi Zhang, and Xuanjing Huang. “LLMEval: A Preliminary Study on How to Evaluate Large Language Models.” arXiv, December 17, 2023. https://doi.org/10.48550/arXiv.2312.07398.
