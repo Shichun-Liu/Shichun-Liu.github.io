@@ -22,7 +22,9 @@ redirect_from:
 -->
 Currently, I focus on Natural Language Processing, particularly in LLM Agent, model alignment (RLHF) and math reasoning.
 
+<!--
 # 🔥 News
+-->
 
 # 📝 Publications 
 <!--
@@ -44,13 +46,22 @@ Currently, I focus on Natural Language Processing, particularly in LLM Agent, mo
 December 23, 2023. https://doi.org/10.48550/arXiv.2303.10420.
 - Zhang, Yue, Ming Zhang, Haipeng Yuan, Shichun Liu, Yongyao Shi, Tao Gui, Qi Zhang, and Xuanjing Huang. “LLMEval: A Preliminary Study on How to Evaluate Large Language Models.” arXiv, December 17, 2023. https://doi.org/10.48550/arXiv.2312.07398.
 
+
 # 🎖 Honors and Awards
 - *2022.09*, the First prize (Top 0.6% of 49242 teams) of Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM).
 - *2021.12*, the Second Prize of the Scholarship for Outstanding Students at Fudan University in the 2020-2021 academic year.
 - *2021.12*, the Second Prize Winner(Non-Physics A) in the 38th National Physics Competition for College Students.
 - *2021.12, 2022.12*, the Second Prize Winner(Non-Math) in the 13, 14th National Mathematics Competition for College Students.
+
+
 # 📖 Educations
 - *2020.9 - 2024.6*, B.E. at Fudan University with a major in computer science and technology.
+
+
+<!--
 # 💬 Invited Talks
+-->
+
+
 # 💻 Internships
 - *2023.12 - 2024.3*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
