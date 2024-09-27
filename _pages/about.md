@@ -64,5 +64,5 @@ December 23, 2023. https://doi.org/10.48550/arXiv.2303.10420.
 
 
 # 💻 Internships
-- *2024.8 - now *, Bytedance, AI Lab Research, Shanghai, China
+- *2024.8 - now*, Bytedance, AI Lab Research, Shanghai, China
 - *2023.12 - 2024.3*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
