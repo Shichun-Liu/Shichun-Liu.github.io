@@ -20,31 +20,46 @@ redirect_from:
 <!--
  My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
-Currently, I focus on Natural Language Processing, particularly in LLM Agent, model alignment (RLHF) and math reasoning.
+I'm currently a Master's degree student (from fall, 2024) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
-<!--
 # 🔥 News
--->
+- *2024.3*: &nbsp;🎉🎉 One paper on in-context learning was accepted by **NAACL-2024-Findings**!
+
+
 
 # 📝 Publications 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+## In-Context Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 (Findings)</div><img src='../images/self-demos-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models \\
+Wei He, **Shichun Liu**, Jun Zhao, Yiwen Ding, Yi Lu, Zhiheng Xi, Tao Gui, Qi Zhang, Xuanjing Huang.
+- A bio-inspired novel positional encoding method for spiking neural networks.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2404.00884) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/hewei2001/Self-Demos) 
 </div>
 </div>
--->
-- He, Wei, Shichun Liu, Jun Zhao, Yiwen Ding, Yi Lu, Zhiheng Xi, Tao Gui, Qi Zhang and Xuanjing Huang. “Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models.” (2024).
-- Xi, Zhiheng, Wenxiang Chen, Boyang Hong, Senjie Jin, Rui Zheng, Wei He, Yiwen Ding, Shichun Liu, Xin Guo, Junzhe Wang, Honglin Guo, Wei Shen, Xiaoran Fan, Yuhao Zhou, Shihan Dou, Xiao Wang, Xinbo Zhang, Peng Sun, Tao Gui, Qi Zhang and Xuanjing Huang. “Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning.” ArXiv abs/2402.05808 (2024).
-- Ye, Junjie, Xuanting Chen, Nuo Xu, Can Zu, Zekai Shao, Shichun Liu, Yuhan Cui, et al. “A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models.” arXiv,
-December 23, 2023. https://doi.org/10.48550/arXiv.2303.10420.
-- Zhang, Yue, Ming Zhang, Haipeng Yuan, Shichun Liu, Yongyao Shi, Tao Gui, Qi Zhang, and Xuanjing Huang. “LLMEval: A Preliminary Study on How to Evaluate Large Language Models.” arXiv, December 17, 2023. https://doi.org/10.48550/arXiv.2312.07398.
+
+## Others
+
+- ![](https://img.shields.io/badge/EMNLP--2024-darkblue) TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities
+<br> Ming Zhang, Caishuang Huang, Yilong Wu, **Shichun Liu**, Huiyuan Zheng, Yurui Dong, Yujiong Shen, Shihan Dou, Jun Zhao, Junjie Ye, Qi Zhang, Tao Gui, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.21693)
+
+- ![](https://img.shields.io/badge/ICML--2024-darkblue) Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning
+<br> Zhiheng Xi, Wenxiang Chen, Boyang Hong, Senjie Jin, Rui Zheng, Wei He, Yiwen Ding, **Shichun Liu**, Xin Guo, Junzhe Wang, Honglin Guo, Wei Shen, Xiaoran Fan, Yuhao Zhou, Shihan Dou, Xiao Wang, Xinbo Zhang, Peng Sun, Tao Gui, Qi Zhang, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2402.05808)
+
+- ![](https://img.shields.io/badge/AAAI--2024-darkblue) LLMEval: A Preliminary Study on How to Evaluate Large Language Models.
+<br> Yue Zhang, Ming Zhang, Haipeng Yuan, **Shichun Liu**, Yongyao Shi, Tao Gui, Qi Zhang, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2312.07398)
+
+- ![](https://img.shields.io/badge/Arxiv--yellow) A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models
+<br> Junjie Ye, Xuanting Chen, Nuo Xu, Can Zu, Zekai Shao, **Shichun Liu**, Yuhan Cui, Zeyang Zhou, Chao Gong, Yang Shen, Jie Zhou, Siming Chen, Tao Gui, Qi Zhang, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2303.10420)
+
+
 
 
 # 🎖 Honors and Awards
