@@ -36,7 +36,9 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 
 Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models \\
 Wei He, **Shichun Liu**, Jun Zhao, Yiwen Ding, Yi Lu, Zhiheng Xi, Tao Gui, Qi Zhang, Xuanjing Huang.
-- A bio-inspired novel positional encoding method for spiking neural networks.
+
+- Goal: develop a method that can enhance the generalizability of LLMs when encountering OOD queries, allowing them to better adapt to novel tasks.
+- Through extensive experiments on the tool-using scenario (OOD-Toolset) and mathematical problem-solving tasks (GSM8K and MATH datasets), SELF-DEMOS demonstrated superior performance in handling OOD queries compared to existing state-of-the-art methods.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2404.00884) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/hewei2001/Self-Demos) 
 </div>
 </div>
