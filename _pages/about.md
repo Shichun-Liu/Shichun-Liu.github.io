@@ -81,6 +81,7 @@ Wei He, **Shichun Liu**, Jun Zhao, Yiwen Ding, Yi Lu, Zhiheng Xi, Tao Gui, Qi Zh
 
 
 # 💻 Internships
+- *2025.1 - now*, (I'm back!🤣)[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
 - *2024.8 - 2024.12*, Bytedance, AI Lab Research, Shanghai, China
 - *2023.12 - 2024.3*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
 
