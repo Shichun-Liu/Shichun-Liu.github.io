@@ -81,10 +81,12 @@ Wei He, **Shichun Liu**, Jun Zhao, Yiwen Ding, Yi Lu, Zhiheng Xi, Tao Gui, Qi Zh
 
 
 # 💻 Internships
-- *2025.1 - now*, (I'm back!🤣)[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
+- *2025.1 - 2025.3*, Large Language Model Center Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
 - *2024.8 - 2024.12*, Bytedance, AI Lab Research, Shanghai, China
-- *2023.12 - 2024.3*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
+- *2023.12 - 2024.3*, General Safety Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
 
+# 💡Services
+- *2025.1* Reviewer of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).
 
 # 🌏 Visitors
 
