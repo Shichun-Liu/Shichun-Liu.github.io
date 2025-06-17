@@ -23,8 +23,9 @@ redirect_from:
 I'm currently a Master's degree student (from fall, 2024) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).
 
 # 🔥 News
+- *2024.5*: &nbsp;🎉🎉 One paper on math reasoning & RL was accepted by **ICML-2024**!
 - *2024.3*: &nbsp;🎉🎉 One paper on in-context learning was accepted by **NAACL-2024-Findings**!
-
+- *2023.12*: &nbsp;🎉🎉 One paper on evaluation was accepted by **AAAI-2024**!
 
 
 # 📝 Publications 
