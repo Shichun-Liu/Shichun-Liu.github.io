@@ -36,7 +36,7 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/POLAR_method.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### POLAR: Policy-Discriminative Pre-training for Generalizable Reward Models \\
+### POLAR: Policy-Discriminative Pre-training for Generalizable Reward Models
 
 Shihan Dou\*<small>‡</small>, **Shichun Liu**\*<small>‡</small>, Yuming Yang\*, Yicheng Zou\*<small>†</small>, Yunhua Zhou, Shuhao Xing, Chenhao Huang, Qiming Ge, Demin Song, Haijun Lv, Songyang Gao, Chengqi Lv, Enyu Zhou, Honglin Guo, Zhiheng Xi, Wenwei Zhang, Qipeng Guo, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Tao Gui<small>†</small>, Kai Chen<small>†</small>
 
@@ -53,7 +53,7 @@ Shihan Dou\*<small>‡</small>, **Shichun Liu**\*<small>‡</small>, Yuming Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 (Findings)</div><img src='../images/self-demos-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models \\
+### Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models
 
 Wei He, **Shichun Liu**, Jun Zhao, Yiwen Ding, Yi Lu, Zhiheng Xi, Tao Gui, Qi Zhang, Xuanjing Huang.
 
