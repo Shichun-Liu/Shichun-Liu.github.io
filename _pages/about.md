@@ -23,6 +23,7 @@ redirect_from:
 I'm currently a Master's degree student (from fall, 2024) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).Previously, I got my bachelor's degree from Fudan University, advised by Associate Prof. [Tao Gui](https://guitaowufeng.github.io/).
 
 # 🔥 News
+
 - *2024.7*: &nbsp;🎉🎉 Our paper on Reward Model Pre-training, POLAR, is now available on [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.05197)!
 - *2024.5*: &nbsp;🎉🎉 One paper on math reasoning & RL was accepted by **ICML-2024**!
 - *2024.3*: &nbsp;🎉🎉 One paper on in-context learning was accepted by **NAACL-2024-Findings**!
@@ -31,7 +32,7 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 
 # 📝 Publications 
 
-## Reinforcement Learning
+## Reward Modeling
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/POLAR_method.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
