@@ -44,7 +44,7 @@ Shihan Dou\*<small>‡</small>, **Shichun Liu**\*<small>‡</small>, Yuming Yang
 
 - Say goodbye to reward models with poor generalization! POLAR (Policy Discriminative Learning) is a groundbreaking pre-training paradigm that trains reward models to distinguish policy distributions, eliminating heavy reliance on human preference data!
 - Highly scalable and tailored for Reinforcement Fine-tuning (RFT)! POLAR assigns rewards based on ground truths, seamlessly integrating into the RFT framework and significantly reducing reward hacking across general tasks!
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.05197) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/InternLM/POLAR) \| [![](https://img.shields.io/badge/Model-fff?logo=huggingface&logoColor=000)](https://huggingface.co/internlm/POLAR-7B)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.05197) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/InternLM/POLAR) ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/POLAR) \| [![](https://img.shields.io/badge/Model-fff?logo=huggingface&logoColor=000)](https://huggingface.co/internlm/POLAR-7B)
 </div>
 </div>
 
