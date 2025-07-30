@@ -30,6 +30,12 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 - *2023.12*: &nbsp;🎉🎉 One paper on evaluation was accepted by **AAAI-2024**!
 
 
+# 💻 Internships
+- *2025.1 - 2025.3*, Large Language Model Center Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
+- *2024.8 - 2024.12*, Bytedance, AI Lab Research, Shanghai, China
+- *2023.12 - 2024.3*, General Safety Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
+
+
 # 📝 Publications 
 
 ## **Reward Modeling**
@@ -157,12 +163,6 @@ Junjie Ye\*, Xuanting Chen\*, Nuo Xu, Can Zu, Zekai Shao, **Shichun Liu**, Yuhan
 <!--
 # 💬 Invited Talks
 -->
-
-
-# 💻 Internships
-- *2025.1 - 2025.3*, Large Language Model Center Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
-- *2024.8 - 2024.12*, Bytedance, AI Lab Research, Shanghai, China
-- *2023.12 - 2024.3*, General Safety Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
 
 # 💡Services
 - *2025.1* Reviewer of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).
