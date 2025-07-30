@@ -78,15 +78,25 @@ Wei He, **Shichun Liu**, Jun Zhao, Yiwen Ding, Yi Lu, Zhiheng Xi, Tao Gui, Qi Zh
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='../images/r3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning
+
+Zhiheng Xi\*, Wenxiang Chen\*, Boyang Hong\*, Senjie Jin\*, Rui Zheng, Wei He, Yiwen Ding, **Shichun Liu**, Xin Guo, Junzhe Wang, Honglin Guo, Wei Shen, Xiaoran Fan, Yuhao Zhou, Shihan Dou, Xiao Wang, Xinbo Zhang, Peng Sun, Tao Gui, Qi Zhang, Xuanjing Huang
+
+- We propose **R3**, a novel method that achieves the benefits of process supervision using only outcome supervision. R3 learns reasoning via a reverse curriculum, progressively moving from easy to hard tasks and enabling precise, step-level feedback.
+- Our method surpasses RL baselines on eight reasoning tasks by 4.1 points on average, and with CodeLlama-7B, it performs comparably to much larger models without extra data.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2402.05808)
+
+</div>
+</div>
+
 ## Others
 
 - ![](https://img.shields.io/badge/EMNLP--2024-darkblue) TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities
 <br> Ming Zhang\*, Caishuang Huang\*, Yilong Wu\*, **Shichun Liu**, Huiyuan Zheng, Yurui Dong, Yujiong Shen, Shihan Dou, Jun Zhao, Junjie Ye, Qi Zhang, Tao Gui, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.21693)
-
-- ![](https://img.shields.io/badge/ICML--2024-darkblue) Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning
-<br> Zhiheng Xi\*, Wenxiang Chen\*, Boyang Hong\*, Senjie Jin\*, Rui Zheng, Wei He, Yiwen Ding, **Shichun Liu**, Xin Guo, Junzhe Wang, Honglin Guo, Wei Shen, Xiaoran Fan, Yuhao Zhou, Shihan Dou, Xiao Wang, Xinbo Zhang, Peng Sun, Tao Gui, Qi Zhang, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2402.05808)
 
 - ![](https://img.shields.io/badge/AAAI--2024-darkblue) LLMEval: A Preliminary Study on How to Evaluate Large Language Models
 <br> Yue Zhang\*, Ming Zhang\*, Haipeng Yuan, **Shichun Liu**, Yongyao Shi, Tao Gui, Qi Zhang, Xuanjing Huang
