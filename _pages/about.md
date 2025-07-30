@@ -32,7 +32,8 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 
 # 📝 Publications 
 
-## Reward Modeling
+## **Reward Modeling**
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/POLAR_method.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,7 +49,21 @@ Shihan Dou\*<small>‡</small>, **Shichun Liu**\*<small>‡</small>, Yuming Yang
 </div>
 </div>
 
-## In-Context Learning
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='../images/lost-in-the-context.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Lost in the Context: Insufficient and Distracted Attention to Contexts in Preference Modeling
+
+Shihan Dou\*, Jiayi Chen\*, Chenhao Huang\*, Feng Chen, Wei Chengzhi, Huiyuan Zheng, **Shichun Liu**, Yan Liu, Chenxiao Liu, Chao Xin, Lin Yan, Zongzhang Zhang, Tao Gui, Qi Zhang, Xuanjing Huang
+
+- The reward model (RM) in RLHF often overlooks crucial context, leading to poor preference alignment. We find that the RM allocates insufficient attention to the context and ignores relevant segments. 
+- To address this, we propose **AttnRM**, a novel optimization framework that directs the RM's focus to important contextual information. Experimental results show that AttnRM significantly enhances preference modeling, generalizability, and alignment with human preferences.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2025.acl-long.285/)
+</div>
+</div>
+
+
+## Reasoning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 (Findings)</div><img src='../images/self-demos-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
