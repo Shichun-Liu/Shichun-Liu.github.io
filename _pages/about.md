@@ -87,7 +87,51 @@ Zhiheng Xi\*, Wenxiang Chen\*, Boyang Hong\*, Senjie Jin\*, Rui Zheng, Wei He, Y
 
 - We propose **R3**, a novel method that achieves the benefits of process supervision using only outcome supervision. R3 learns reasoning via a reverse curriculum, progressively moving from easy to hard tasks and enabling precise, step-level feedback.
 - Our method surpasses RL baselines on eight reasoning tasks by 4.1 points on average, and with CodeLlama-7B, it performs comparably to much larger models without extra data.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2402.05808)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2402.05808) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/WooooDyy/LLM-Reverse-Curriculum-RL)
+
+</div>
+</div>
+
+## Evaluation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/evalearn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving
+
+Shihan Dou, Ming Zhang, Chenhao Huang, Jiayi Chen, Feng Chen, **Shichun Liu**, Yan Liu, Chenxiao Liu, Cheng Zhong, Zongzhang Zhang, Tao Gui, Chao Xin, Wei Chengzhi, Lin Yan, Qi Zhang, Yonghui Wu, Xuanjing Huang
+
+- We introduce **EvaLearn**, a benchmark to evaluate the learning capability of LLMs through sequential problem-solving, where models learn from prior experience.
+- It features 648 problems in 182 sequences and five metrics, revealing that static ability doesn't always correlate with learning capability, thus offering a new dimension for model evaluation.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2506.02672) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/ByteDance-Seed/EvaLearn)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='../images/llmeval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### LLMEval: A Preliminary Study on How to Evaluate Large Language Models
+
+Yue Zhang\*, Ming Zhang\*, Haipeng Yuan, **Shichun Liu**, Yongyao Shi, Tao Gui, Qi Zhang, Xuanjing Huang
+
+- Addresses the crucial "how to evaluate" question for LLMs, analyzing various criteria, scoring methods, and ranking systems.
+- Introduces the LLMEval dataset, based on evaluations of 20 LLMs with over 240,000 manual annotations, and offers 10 key insights for future evaluation.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2312.07398) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/llmeval)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/eval-gpt3a5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models
+
+Junjie Ye\*, Xuanting Chen\*, Nuo Xu, Can Zu, Zekai Shao, **Shichun Liu**, Yuhan Cui, Zeyang Zhou, Chao Gong, Yang Shen, Jie Zhou, Siming Chen, Tao Gui, Qi Zhang, Xuanjing Huang
+
+- We analyze the capability evolution of six GPT-3 and GPT-3.5 models on 21 NLU datasets.
+- Our findings reveal that model capabilities do not uniformly improve with evolution, as strategies like RLHF can sometimes compromise performance on specific tasks while enhancing others.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2303.10420)
 
 </div>
 </div>
@@ -97,17 +141,6 @@ Zhiheng Xi\*, Wenxiang Chen\*, Boyang Hong\*, Senjie Jin\*, Rui Zheng, Wei He, Y
 - ![](https://img.shields.io/badge/EMNLP--2024-darkblue) TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities
 <br> Ming Zhang\*, Caishuang Huang\*, Yilong Wu\*, **Shichun Liu**, Huiyuan Zheng, Yurui Dong, Yujiong Shen, Shihan Dou, Jun Zhao, Junjie Ye, Qi Zhang, Tao Gui, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.21693)
-
-- ![](https://img.shields.io/badge/AAAI--2024-darkblue) LLMEval: A Preliminary Study on How to Evaluate Large Language Models
-<br> Yue Zhang\*, Ming Zhang\*, Haipeng Yuan, **Shichun Liu**, Yongyao Shi, Tao Gui, Qi Zhang, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2312.07398)
-
-- ![](https://img.shields.io/badge/Arxiv--yellow) A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models
-<br> Junjie Ye\*, Xuanting Chen\*, Nuo Xu, Can Zu, Zekai Shao, **Shichun Liu**, Yuhan Cui, Zeyang Zhou, Chao Gong, Yang Shen, Jie Zhou, Siming Chen, Tao Gui, Qi Zhang, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2303.10420)
-
-
-
 
 # 🎖 Honors and Awards
 - *2024.06*，the Top Students Award in Computer Science in recognition of his exceptional academic performance in the National Top Talent Undergraduate Training Program.
