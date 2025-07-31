@@ -31,9 +31,9 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 
 
 # 💻 Internships
-- *2025.1 - 2025.3*, Large Language Model Center Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
-- *2024.8 - 2024.12*, Bytedance, AI Lab Research, Shanghai, China
-- *2023.12 - 2024.3*, General Safety Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
+  <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/shanghai-ai-lab.png" alt="Shanghai AI Lab" style="max-width: 160px; max-height: 50px;"></span>*2025.1 - 2025.3*, Large Language Model Center Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
+  <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/bytedance.png" alt="Bytedance" style="max-width: 160px; max-height: 50px;"></span>*2024.8 - 2024.12*, Bytedance, AI Lab Research, Shanghai, China
+  <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/shanghai-ai-lab.png" alt="Shanghai AI Lab" style="max-width: 160px; max-height: 50px;"></span>*2023.12 - 2024.3*, General Safety Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
 
 
 # 📝 Publications 
