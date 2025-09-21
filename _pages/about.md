@@ -24,6 +24,7 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 
 # 🔥 News
 
+- *2025.9*: &nbsp;🎉🎉 **POLAR** and **Evalearn** are accepted by **NeurIPS 2025**!
 - *2025.7*: &nbsp;🎉🎉 Our paper on Reward Model Pre-training, **POLAR**, is now available on [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.05197)!
 - *2024.5*: &nbsp;🎉🎉 One paper on math reasoning & RL was accepted by **ICML-2024**!
 - *2024.3*: &nbsp;🎉🎉 One paper on in-context learning was accepted by **NAACL-2024-Findings**!
@@ -41,7 +42,7 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 ## **Reward Modeling**
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/POLAR_method.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 25</div><img src='../images/POLAR_method.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### POLAR: Policy-Discriminative Pre-training for Generalizable Reward Models
@@ -100,7 +101,7 @@ Zhiheng Xi\*, Wenxiang Chen\*, Boyang Hong\*, Senjie Jin\*, Rui Zheng, Wei He, Y
 
 ## Evaluation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/evalearn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 25</div><img src='../images/evalearn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving
