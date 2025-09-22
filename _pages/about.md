@@ -20,7 +20,7 @@ redirect_from:
 <!--
  My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
-I'm currently a Master's degree student (from fall, 2024) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), advised by Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/).Previously, I got my bachelor's degree from Fudan University, advised by Associate Prof. [Tao Gui](https://guitaowufeng.github.io/).
+I'm currently a Master's degree student (from fall, 2024) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), co-advised by Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/) and Asst. Prof. [Tao Gui(桂 韬)](https://guitaowufeng.github.io/).Previously, I got my bachelor's degree from Fudan University, advised by Associate Prof. [Tao Gui](https://guitaowufeng.github.io/).
 
 # 🔥 News
 
