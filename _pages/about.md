@@ -170,7 +170,7 @@ Junjie Ye\*, Xuanting Chen\*, Nuo Xu, Can Zu, Zekai Shao, **Shichun Liu**, Yuhan
 <!--
 # 💬 Invited Talks
 -->
-p
+
 # 💡Services
 - *2025.1* Reviewer of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).
 
