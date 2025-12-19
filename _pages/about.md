@@ -24,6 +24,7 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 
 # 🔥 News
 
+- *2025.12*: &nbsp;🎉🎉 Our comprehensive survey on **Memory in the Age of AI Agents** is released on [arXiv](https://arxiv.org/abs/2512.13564)!
 - *2025.9*: &nbsp;🎉🎉 **POLAR** and **Evalearn** are accepted by **NeurIPS 2025**!
 - *2025.7*: &nbsp;🎉🎉 Our paper on Reward Model Pre-training, **POLAR**, is now available on [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.05197)!
 - *2024.5*: &nbsp;🎉🎉 One paper on math reasoning & RL was accepted by **ICML-2024**!
@@ -37,7 +38,23 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/shanghai-ai-lab.png" alt="Shanghai AI Lab" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2023.12 - 2024.3**<br>General Safety Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)<br>Shanghai, China.</span>
 
 
-# 📝 Publications 
+# 📝 Publications
+
+## **Memory**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='../images/memory-main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Memory in the Age of AI Agents: A Survey
+
+Yuyang Hu, **Shichun Liu**, Yanwei Yue, Guibin Zhang, etc.
+
+- Memory serves as the cornerstone of foundation model-based agents, underpinning their ability to perform long-horizon reasoning, adapt continually, and interact effectively with complex environments.
+- We provide a comprehensive overview through three unified lenses: Forms, Functions, and Dynamics.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.13564) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![GitHub Repo stars](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List)
+
+</div>
+</div>
 
 ## **Reward Modeling**
 
