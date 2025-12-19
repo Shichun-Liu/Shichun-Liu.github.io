@@ -47,7 +47,8 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 
 ### Memory in the Age of AI Agents: A Survey
 
-Yuyang Hu, **Shichun Liu**, Yanwei Yue, Guibin Zhang, etc.
+Yuyang Hu<small>†</small>, **Shichun Liu**<small>†</small>, Yanwei Yue<small>†</small>, Guibin Zhang<small>†</small>, etc.
+<small>†Core Contributors with Names Listed Alphabetically.</small>
 
 - Memory serves as the cornerstone of foundation model-based agents, underpinning their ability to perform long-horizon reasoning, adapt continually, and interact effectively with complex environments.
 - We provide a comprehensive overview through three unified lenses: Forms, Functions, and Dynamics.
