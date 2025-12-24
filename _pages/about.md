@@ -25,10 +25,10 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 # 🔥 News
 
 - *2025.12*: &nbsp;🎉🎉 Our comprehensive survey on **Memory in the Age of AI Agents** is released on [arXiv](https://arxiv.org/abs/2512.13564)!
-- *2025.9*: &nbsp;🎉🎉 **POLAR** and **Evalearn** are accepted by **NeurIPS 2025**!
-- *2025.7*: &nbsp;🎉🎉 Our paper on Reward Model Pre-training, **POLAR**, is now available on [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.05197)!
-- *2024.5*: &nbsp;🎉🎉 One paper on math reasoning & RL was accepted by **ICML-2024**!
-- *2024.3*: &nbsp;🎉🎉 One paper on in-context learning was accepted by **NAACL-2024-Findings**!
+- *2025.09*: &nbsp;🎉🎉 **POLAR** and **Evalearn** are accepted by **NeurIPS 2025**!
+- *2025.07*: &nbsp;🎉🎉 Our paper on Reward Model Pre-training, **POLAR**, is now available on [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.05197)!
+- *2024.05*: &nbsp;🎉🎉 One paper on math reasoning & RL was accepted by **ICML-2024**!
+- *2024.03*: &nbsp;🎉🎉 One paper on in-context learning was accepted by **NAACL-2024-Findings**!
 - *2023.12*: &nbsp;🎉🎉 One paper on evaluation was accepted by **AAAI-2024**!
 
 
