@@ -33,6 +33,7 @@ I'm currently a Master's degree student (from fall, 2024) at the [School of Comp
 
 
 # 💻 Internships
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/N-logo-white.png" alt="NexAGI" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2025.3 - Present**<br>Algorithm Researcher at NexAGI (Shanghai Qiji Zhifeng Co., Ltd.)<br>Shanghai, China</span>
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/shanghai-ai-lab.png" alt="Shanghai AI Lab" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2025.1 - 2025.3**<br>Large Language Model Center Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)<br>Shanghai, China.</span>
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/bytedance.png" alt="Bytedance" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2024.8 - 2024.12**<br>Bytedance, AI Lab Research<br>Shanghai, China</span>
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/shanghai-ai-lab.png" alt="Shanghai AI Lab" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2023.12 - 2024.3**<br>General Safety Group of [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)<br>Shanghai, China.</span>
@@ -157,6 +158,22 @@ Junjie Ye\*, Xuanting Chen\*, Nuo Xu, Can Zu, Zekai Shao, **Shichun Liu**, Yuhan
 - We analyze the capability evolution of six GPT-3 and GPT-3.5 models on 21 NLU datasets.
 - Our findings reveal that model capabilities do not uniformly improve with evolution, as strategies like RLHF can sometimes compromise performance on specific tasks while enhancing others.
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2303.10420)
+
+</div>
+</div>
+
+## Agent
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='../images/nex-n1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction
+
+Nex-AGI Team: Yuxuan Cai, Lu Chen, ..., **Shichun Liu**, ..., Xuanjing Huang, Xipeng Qiu
+
+- We introduce a comprehensive method designed to systematically scale the diversity and complexity of interactive environments through three orthogonal dimensions: Complexity (NexAU), Diversity (NexA4A), and Fidelity (NexGAP).
+- Nex-N1 consistently outperforms SOTA open-source models and achieves competitive performance against frontier proprietary models on complex agentic tasks (SWE-bench, tau2).
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.04987)
 
 </div>
 </div>
