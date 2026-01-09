@@ -180,12 +180,12 @@ Nex-AGI Team: Yuxuan Cai, Lu Chen, ..., **Shichun Liu**, ..., Xuanjing Huang, Xi
 
 ## Others
 
-- ![](https://img.shields.io/badge/ACL--Demo--2025-darkblue) Multi-Programming Language Sandbox for LLMs
+- ![](https://img.shields.io/badge/ACL--Demo--2025-darkblue) **Multi-Programming Language Sandbox for LLMs**
 <br> Shihan Dou\*, Jiazheng Zhang\*, Jianxiang Zang\*, Yunbo Tao, Weikang Zhou, Haoxiang Jia, **Shichun Liu**, Yuming Yang, Shenxi Wu, Zhiheng Xi, Muling Wu, Rui Zheng, Changze Lv, Limao Xiong, Shaoqing Zhang, Lin Zhang, Wenyu Zhan, Rongxiang Weng, Jingang Wang, Xunliang Cai, Yueming Wu, Ming Wen, Yixin Cao, Tao Gui, Xipeng Qiu, Qi Zhang, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2025.acl-demo.5.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Ablustrund/MPLSandbox)
 
 
-- ![](https://img.shields.io/badge/EMNLP--2024-darkblue) TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities
+- ![](https://img.shields.io/badge/EMNLP--2024-darkblue) **TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities**
 <br> Ming Zhang\*, Caishuang Huang\*, Yilong Wu\*, **Shichun Liu**, Huiyuan Zheng, Yurui Dong, Yujiong Shen, Shihan Dou, Jun Zhao, Junjie Ye, Qi Zhang, Tao Gui, Xuanjing Huang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.21693)
 
