@@ -212,5 +212,5 @@ Nex-AGI Team: Yuxuan Cai, Lu Chen, ..., **Shichun Liu**, ..., Xuanjing Huang, Xi
 # 🌏 Visitors
 
 <div style="width: 15%; margin: auto;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CbEyd1rFdqDWDFWN0o0y_IErdS84uYJElpB6uRCQPyI&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=CbEyd1rFdqDWDFWN0o0y_IErdS84uYJElpB6uRCQPyI"></script>
 </div>
