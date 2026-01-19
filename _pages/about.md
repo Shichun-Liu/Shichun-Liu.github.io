@@ -207,7 +207,7 @@ Nex-AGI Team: Yuxuan Cai, Lu Chen, ..., **Shichun Liu**, ..., Xuanjing Huang, Xi
 -->
 
 # 💡Services
-- *2025.1* Reviewer of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025).
+- Reviewer of ACL, NeurIPS.
 
 # 🌏 Visitors
 
