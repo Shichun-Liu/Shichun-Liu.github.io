@@ -53,7 +53,7 @@ Yuyang Hu<small>†</small>, **Shichun Liu**<small>†</small>, Yanwei Yue<small
 
 - Memory serves as the cornerstone of foundation model-based agents, underpinning their ability to perform long-horizon reasoning, adapt continually, and interact effectively with complex environments.
 - We provide a comprehensive overview through three unified lenses: Forms, Functions, and Dynamics.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.13564) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![GitHub Repo stars](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.13564) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![GitHub Repo stars](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List) \| [![Semantic Scholar Citations](https://img.shields.io/badge/dynamic/json?label=Citations&query=%24.citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd362b7619fcd2df4241696a19aec95961b8a729c%3Ffields%3DcitationCount&logo=semanticscholar&cacheSeconds=3600)](https://www.semanticscholar.org/paper/d362b7619fcd2df4241696a19aec95961b8a729c)
 
 </div>
 </div>
