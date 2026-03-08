@@ -43,7 +43,22 @@ My previous research focused on **model reasoning** and **reward modeling**, and
 
 # 📝 Publications
 
-## **Memory**
+## **L3-Agent**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/octobench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### OctoBench: Benchmarking Scaffold-Aware Instruction Following in Repository-Grounded Agentic Coding
+
+Deming Ding\*, **Shichun Liu**\*, Enhui Yang\*, Jiahang Lin\*, Ziying Chen, Shihan Dou, Honglin Guo, Weiyu Cheng, Pengyu Zhao, Chengjun Xiao, Qunhong Zeng, Qi Zhang, Xuanjing Huang, Qidi Xu, Tao Gui
+
+- Modern coding scaffolds turn LLMs into capable software agents, but their ability to follow scaffold-specified instructions remains under-examined. OctoBench benchmarks scaffold-aware instruction following in repository-grounded agentic coding.
+- OctoBench includes 34 environments and 217 tasks under three scaffold types, with 7,098 objective checklist items. We release an automated observation-and-scoring toolkit for full trajectories and fine-grained checks.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2601.10343) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/MiniMax-AI/mini-vela)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='../images/memory-main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,7 +75,40 @@ Yuyang Hu<small>†</small>, **Shichun Liu**<small>†</small>, Yanwei Yue<small
 </div>
 </div>
 
-## **Reward Modeling**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='../images/nex-n1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+### Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction
+
+Nex-AGI Team: Yuxuan Cai, Lu Chen, ..., **Shichun Liu**, ..., Xuanjing Huang, Xipeng Qiu
+
+- We introduce a comprehensive method designed to systematically scale the diversity and complexity of interactive environments through three orthogonal dimensions: Complexity (NexAU), Diversity (NexA4A), and Fidelity (NexGAP).
+- Nex-N1 consistently outperforms SOTA open-source models and achieves competitive performance against frontier proprietary models on complex agentic tasks (SWE-bench, tau2).
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.04987)
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 25</div><img src='../images/evalearn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving
+
+Shihan Dou, Ming Zhang, Chenhao Huang, Jiayi Chen, Feng Chen, **Shichun Liu**, Yan Liu, Chenxiao Liu, Cheng Zhong, Zongzhang Zhang, Tao Gui, Chao Xin, Wei Chengzhi, Lin Yan, Qi Zhang, Yonghui Wu, Xuanjing Huang
+
+- We introduce **EvaLearn**, a benchmark to evaluate the learning capability of LLMs through sequential problem-solving, where models learn from prior experience.
+- It features 648 problems in 182 sequences and five metrics, revealing that static ability doesn't always correlate with learning capability, thus offering a new dimension for model evaluation.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2506.02672) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/ByteDance-Seed/EvaLearn)
+
+</div>
+</div>
+
+## L2-Reasoner
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 25</div><img src='../images/POLAR_method.png' alt="sym" width="100%"></div></div>
@@ -91,8 +139,6 @@ Shihan Dou\*, Jiayi Chen\*, Chenhao Huang\*, Feng Chen, Wei Chengzhi, Huiyuan Zh
 </div>
 
 
-## Reasoning
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='../images/self-demos-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -120,21 +166,11 @@ Zhiheng Xi\*, Wenxiang Chen\*, Boyang Hong\*, Senjie Jin\*, Rui Zheng, Wei He, Y
 </div>
 </div>
 
-## Evaluation
+<!-- - ![](https://img.shields.io/badge/ACL--Demo--2025-darkblue) **Multi-Programming Language Sandbox for LLMs**
+<br> Shihan Dou\*, Jiazheng Zhang\*, Jianxiang Zang\*, Yunbo Tao, Weikang Zhou, Haoxiang Jia, **Shichun Liu**, Yuming Yang, Shenxi Wu, Zhiheng Xi, Muling Wu, Rui Zheng, Changze Lv, Limao Xiong, Shaoqing Zhang, Lin Zhang, Wenyu Zhan, Rongxiang Weng, Jingang Wang, Xunliang Cai, Yueming Wu, Ming Wen, Yixin Cao, Tao Gui, Xipeng Qiu, Qi Zhang, Xuanjing Huang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2025.acl-demo.5.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Ablustrund/MPLSandbox) -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 25</div><img src='../images/evalearn.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-### EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving
-
-Shihan Dou, Ming Zhang, Chenhao Huang, Jiayi Chen, Feng Chen, **Shichun Liu**, Yan Liu, Chenxiao Liu, Cheng Zhong, Zongzhang Zhang, Tao Gui, Chao Xin, Wei Chengzhi, Lin Yan, Qi Zhang, Yonghui Wu, Xuanjing Huang
-
-- We introduce **EvaLearn**, a benchmark to evaluate the learning capability of LLMs through sequential problem-solving, where models learn from prior experience.
-- It features 648 problems in 182 sequences and five metrics, revealing that static ability doesn't always correlate with learning capability, thus offering a new dimension for model evaluation.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2506.02672) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/ByteDance-Seed/EvaLearn)
-
-</div>
-</div>
+## L1-Chatbot
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='../images/llmeval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -150,7 +186,7 @@ Yue Zhang\*, Ming Zhang\*, Haipeng Yuan, **Shichun Liu**, Yongyao Shi, Tao Gui, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/eval-gpt3a5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='../images/eval-gpt3a5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models
@@ -164,32 +200,10 @@ Junjie Ye\*, Xuanting Chen\*, Nuo Xu, Can Zu, Zekai Shao, **Shichun Liu**, Yuhan
 </div>
 </div>
 
-## Agent
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='../images/nex-n1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-### Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction
-
-Nex-AGI Team: Yuxuan Cai, Lu Chen, ..., **Shichun Liu**, ..., Xuanjing Huang, Xipeng Qiu
-
-- We introduce a comprehensive method designed to systematically scale the diversity and complexity of interactive environments through three orthogonal dimensions: Complexity (NexAU), Diversity (NexA4A), and Fidelity (NexGAP).
-- Nex-N1 consistently outperforms SOTA open-source models and achieves competitive performance against frontier proprietary models on complex agentic tasks (SWE-bench, tau2).
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.04987)
-
-</div>
-</div>
-
-## Others
-
-- ![](https://img.shields.io/badge/ACL--Demo--2025-darkblue) **Multi-Programming Language Sandbox for LLMs**
-<br> Shihan Dou\*, Jiazheng Zhang\*, Jianxiang Zang\*, Yunbo Tao, Weikang Zhou, Haoxiang Jia, **Shichun Liu**, Yuming Yang, Shenxi Wu, Zhiheng Xi, Muling Wu, Rui Zheng, Changze Lv, Limao Xiong, Shaoqing Zhang, Lin Zhang, Wenyu Zhan, Rongxiang Weng, Jingang Wang, Xunliang Cai, Yueming Wu, Ming Wen, Yixin Cao, Tao Gui, Xipeng Qiu, Qi Zhang, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://aclanthology.org/2025.acl-demo.5.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Ablustrund/MPLSandbox)
-
-
-- ![](https://img.shields.io/badge/EMNLP--2024-darkblue) **TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities**
+<!-- - ![](https://img.shields.io/badge/EMNLP--2024-darkblue) **TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities**
 <br> Ming Zhang\*, Caishuang Huang\*, Yilong Wu\*, **Shichun Liu**, Huiyuan Zheng, Yurui Dong, Yujiong Shen, Shihan Dou, Jun Zhao, Junjie Ye, Qi Zhang, Tao Gui, Xuanjing Huang
-<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.21693)
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.21693) -->
 
 
 # 🎖 Honors and Awards
