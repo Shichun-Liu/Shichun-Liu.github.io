@@ -26,7 +26,7 @@ My previous research focused on **model reasoning** and **reward modeling**, and
 
 # 🔥 News
 
-- *2026.03*: &nbsp;🎉🎉 **OctoBench** (benchmark for scaffold-aware instruction following in agentic coding) is released on [arXiv](https://arxiv.org/abs/2601.10343)!
+- *2026.01*: &nbsp;🎉🎉 **OctoBench** (benchmark for scaffold-aware instruction following in agentic coding) is released on [arXiv](https://arxiv.org/abs/2601.10343)!
 - *2025.12*: &nbsp;🎉🎉 Our comprehensive survey on **Memory in the Age of AI Agents** is released on [arXiv](https://arxiv.org/abs/2512.13564)!
 - *2025.09*: &nbsp;🎉🎉 **POLAR** and **Evalearn** are accepted by **NeurIPS 2025**!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Reward Model Pre-training, **POLAR**, is now available on [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2407.05197)!
