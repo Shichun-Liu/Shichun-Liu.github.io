@@ -46,7 +46,7 @@ My previous research focused on **model reasoning** and **reward modeling**, and
 
 ## **L3-Agent**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/octobench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='../images/octobench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### OctoBench: Benchmarking Scaffold-Aware Instruction Following in Repository-Grounded Agentic Coding
