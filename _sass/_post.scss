@@ -1,0 +1,178 @@
+/* ==========================================================================
+   Blog post & list — academic, restrained typography
+   ========================================================================== */
+
+.post,
+.post-list {
+  max-width: 720px;
+  margin: 2.5em auto;
+  padding: 0 1em;
+  font-family: $serif;
+  color: $text-color;
+  line-height: 1.7;
+}
+
+/* --- Post header --- */
+.post__header {
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.post__title {
+  font-size: 1.9em;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0 0 .35em 0;
+  letter-spacing: -0.01em;
+}
+
+.post__meta,
+.post-list__item-meta {
+  font-size: .85em;
+  color: #777;
+  margin: 0;
+}
+
+.post__tag {
+  display: inline-block;
+  font-size: .85em;
+  color: #555;
+  padding: 0 .35em;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  margin-right: .25em;
+  background: #fafafa;
+}
+
+/* --- Post body --- */
+.post__content {
+  font-size: 1.02em;
+
+  h2 { font-size: 1.45em; margin-top: 2em;   margin-bottom: .6em; }
+  h3 { font-size: 1.2em;  margin-top: 1.6em; margin-bottom: .5em; }
+  h4 { font-size: 1.05em; margin-top: 1.4em; margin-bottom: .4em; }
+
+  p { margin: 0 0 1.1em 0; }
+
+  a {
+    color: #00369f;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 54, 159, .25);
+  }
+  a:hover { border-bottom-color: #00369f; }
+
+  blockquote {
+    margin: 1.5em 0;
+    padding: .25em 1em;
+    border-left: 3px solid #ccc;
+    color: #555;
+    font-style: italic;
+  }
+
+  pre, code {
+    font-family: $monospace;
+    font-size: .9em;
+  }
+  code {
+    background: #f4f4f4;
+    padding: .1em .3em;
+    border-radius: 3px;
+  }
+  pre {
+    padding: 1em;
+    overflow-x: auto;
+    background: #f7f7f7;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    line-height: 1.5;
+  }
+  pre code { background: none; padding: 0; }
+
+  table {
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    width: 100%;
+    font-size: .95em;
+  }
+  th, td {
+    border-bottom: 1px solid #eee;
+    padding: .5em .75em;
+    text-align: left;
+  }
+  th { border-bottom: 2px solid #999; }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5em auto;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid #e5e5e5;
+    margin: 2.5em 0;
+  }
+
+  /* footnotes */
+  .footnotes {
+    margin-top: 3em;
+    padding-top: 1em;
+    border-top: 1px solid #eee;
+    font-size: .9em;
+    color: #555;
+  }
+
+  /* KaTeX block math spacing */
+  .katex-display {
+    margin: 1.2em 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+}
+
+.post__footer {
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid #e5e5e5;
+  font-size: .9em;
+}
+
+/* --- List page --- */
+.post-list__title {
+  font-size: 1.7em;
+  font-weight: 600;
+  margin: 0 0 1.5em 0;
+  padding-bottom: .5em;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.post-list__items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-list__item {
+  margin: 0 0 2.2em 0;
+  padding: 0;
+}
+
+.post-list__item-title {
+  font-size: 1.25em;
+  font-weight: 600;
+  margin: 0 0 .25em 0;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+  }
+  a:hover { color: #00369f; }
+}
+
+.post-list__item-excerpt {
+  margin-top: .5em;
+  color: #555;
+  font-size: .95em;
+}
