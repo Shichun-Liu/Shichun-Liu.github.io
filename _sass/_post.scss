@@ -2,9 +2,19 @@
    Blog post & list — academic, restrained typography
    ========================================================================== */
 
+/* On blog pages, let the article use the full content width (the default
+   .page wrap reserves left space for the sidebar that posts don't have). */
+.layout--post .page,
+.layout--posts .page {
+  width: 100%;
+  margin-left: 0;
+  padding-left: 0;
+  float: none;
+}
+
 .post,
 .post-list {
-  max-width: 720px;
+  max-width: 760px;
   margin: 2.5em auto;
   padding: 0 1em;
   font-family: $serif;
