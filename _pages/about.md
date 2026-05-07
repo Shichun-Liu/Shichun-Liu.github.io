@@ -26,6 +26,7 @@ My previous research focused on **model reasoning** and **reward modeling**, and
 
 # 🔥 News
 
+- *2026.04*: &nbsp;🎉🎉 **AHE** (Agentic Harness Engineering) is released on [arXiv](https://arxiv.org/abs/2604.25850)!
 - *2026.01*: &nbsp;🎉🎉 **OctoBench** (benchmark for scaffold-aware instruction following in agentic coding) is released on [arXiv](https://arxiv.org/abs/2601.10343)!
 - *2025.12*: &nbsp;🎉🎉 Our comprehensive survey on **Memory in the Age of AI Agents** is released on [arXiv](https://arxiv.org/abs/2512.13564)!
 - *2025.09*: &nbsp;🎉🎉 **POLAR** and **Evalearn** are accepted by **NeurIPS 2025**!
@@ -45,6 +46,36 @@ My previous research focused on **model reasoning** and **reward modeling**, and
 # 📝 Publications
 
 ## **L3-Agent**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/agentic-harness-engineering-training-curve.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses
+
+Jiahang Lin\*, **Shichun Liu**\*, Chengjun Pan\*, Lizhi Lin, Shihan Dou, Xuanjing Huang, Hang Yan, Zhenhua Han<small>†</small>, Tao Gui<small>†</small>
+
+- AHE is an observability stack for the automatic optimization of coding-agent harnesses, with three pillars: component observability (NexAU), experience observability (Agent Debugger), and decision observability (evidence-driven Evolve Agent).
+- Without changing the model, AHE pushes Terminal-bench 2 from 69.7% to 77.0% across iterations, with strong cross-task and cross-model generalization.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.25850) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/china-qijizhifeng/agentic-harness-engineering) \| [![](https://img.shields.io/badge/Blog-fff?logo=readthedocs&logoColor=000)](/blog/2026/04/agentic-harness-eng-en/)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/evpo-overview.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### EVPO: Explained Variance Policy Optimization for Adaptive Critic Utilization
+
+Chengjun Pan\*, **Shichun Liu**\*, Jiahang Lin\*, Dingwei Zhu, Jiazheng Zhang, Shihan Dou, Songyang Gao, Zhenhua Han, Binghai Wang, Rui Zheng, Xuanjing Huang<small>†</small>, Tao Gui<small>†</small>, Yansong Feng<small>†</small>
+
+- We cast baseline selection in LLM post-training as a Kalman filtering problem, unifying PPO and GRPO as two extremes of the Kalman gain, and prove that the sign of explained variance (EV) is the exact boundary separating the variance-reducing from the variance-inflating critic regime.
+- EVPO adaptively switches between critic-based and batch-mean advantage estimation per step based on EV sign, achieving the best results across Sokoban, FrozenLake, WebShop, and MATH.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.19485)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='../images/octobench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
