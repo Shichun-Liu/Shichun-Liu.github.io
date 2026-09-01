@@ -20,13 +20,14 @@ redirect_from:
 <!--
  My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
-I'm currently a Master's degree student (from September 2024) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), co-advised by Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/) and Associate Prof. [Tao Gui(桂 韬)](https://guitaowufeng.github.io/). Previously, I got my bachelor's degree in June 2024 from Fudan University, advised by Associate Prof. [Tao Gui](https://guitaowufeng.github.io/).
+I'm currently a Master's degree student (from September 2024) at the [School of Computer Science](https://cs.fudan.edu.cn/) of [Fudan University](https://www.fudan.edu.cn/) and a member of the [FudanNLP Lab](https://nlp.fudan.edu.cn/), co-advised by Prof. [Xuanjing Huang (黄萱菁)](https://xuanjing-huang.github.io/) and Associate Prof. [Tao Gui(桂 韬)](https://guitaowufeng.github.io/). Previously, I got my bachelor's degree in June 2024 from Fudan University, advised by Prof. [Xuanjing Huang](https://xuanjing-huang.github.io/).
 
 My previous research focused on **model reasoning** and **reward modeling**, and I am currently concentrating on **agent memory**. Feel free to reach out via [email✉️](mailto:liusc2020@gmail.com) or [RedNote (小红书)](https://xhslink.com/m/CWTAntd2dt) — I'm always open to academic discussions of any kind! 👏🏻
 
 # 🔥 News
 
-- *2026.04*: &nbsp;🎉🎉 **AHE** (Agentic Harness Engineering) is released on [arXiv](https://arxiv.org/abs/2604.25850)!
+- *2026.08*: &nbsp;🎉🎉 Our paper, **[Pera](https://arxiv.org/abs/2608.30478)**, is released on arXiv!
+- *2026.04*: &nbsp;🎉🎉 **[AHE](https://arxiv.org/abs/2604.25850)** (Agentic Harness Engineering) and **[EVPO](https://arxiv.org/abs/2604.19485)** are released on arXiv!
 - *2026.01*: &nbsp;🎉🎉 **OctoBench** (benchmark for scaffold-aware instruction following in agentic coding) is released on [arXiv](https://arxiv.org/abs/2601.10343)!
 - *2025.12*: &nbsp;🎉🎉 Our comprehensive survey on **Memory in the Age of AI Agents** is released on [arXiv](https://arxiv.org/abs/2512.13564)!
 - *2025.09*: &nbsp;🎉🎉 **POLAR** and **Evalearn** are accepted by **NeurIPS 2025**!
@@ -38,7 +39,7 @@ My previous research focused on **model reasoning** and **reward modeling**, and
 
 # 💻 Internships
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/deepseek.svg" alt="DeepSeek" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2026.8 - Present** · Agent Harness Research Intern, **DeepSeek**, Beijing<br><em>Harness Team</em></span>
-- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/NEX.svg" alt="NexAGI" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2025.3 - 2026.8** · Algorithm Researcher, **NEX-AGI** (Shanghai Qiji Zhifeng Co., Ltd.), Shanghai<br><em>Agent memory and context management</em></span>
+- <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/NEX.svg" alt="NexAGI" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2025.3 - 2026.8** · Algorithm Researcher, [**NEX-AGI**](https://huggingface.co/nex-agi) (Shanghai Qiji Zhifeng Co., Ltd.), Shanghai<br><em>Agent memory and context management</em></span>
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/shanghai-ai-lab.png" alt="Shanghai AI Lab" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2025.1 - 2025.3** · LLM Center, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai<br><em>Generalist Reward Modeling</em> · Mentors: Yicheng Zou, Qipeng Guo</span>
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/bytedance.png" alt="Bytedance" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2024.8 - 2024.12** · ByteDance AI Lab Research, Shanghai<br><em>Proactive Agent</em> · Mentor: Wei Li</span>
 - <span style="display: inline-flex; align-items: center; justify-content: center; width: 160px; height: 75px; vertical-align: middle; margin-right: 10px;"><img src="/images/shanghai-ai-lab.png" alt="Shanghai AI Lab" style="max-width: 160px; max-height: 50px;"></span><span style="display: inline-block; vertical-align: middle;">**2023.12 - 2024.3** · General Safety Group, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai<br><em>LLM Agent</em> · Mentors: Jing Shao, Tao Gui</span>
@@ -48,7 +49,22 @@ My previous research focused on **model reasoning** and **reward modeling**, and
 
 ## **L3-Agent**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/agentic-harness-engineering-training-curve.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR Submission</div><img src='../images/pera-main.png' alt="Pera architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Agents in the Large: Perception-Centered Architecture for Persistent Agents
+
+**Shichun Liu**\*, Shihan Dou\*, Haoxiang Jia\*, Feng Chen, Chenhao Huang, Yujiong Shen, Shaofan Liu, Jiayi Chen, Jiahang Lin, Honglin Guo, Qianyu He, Minghao Guo, Ziyi Ye, Pluto Zhou, Tao Gui, Qi Zhang, Xuanjing Huang
+<br>
+
+- Existing language agents are organized around bounded, user-specified tasks; **Pera** frames the shift toward persistent agents that sustain useful service as users, context, and procedures evolve in long-lived settings.
+- **Pera** couples active perception with lifecycle-level control to turn internal and external signals into lifecycle tasks, enabling agents to continually maintain and adapt their service.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2608.30478)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 26 Submission</div><img src='../images/agentic-harness-engineering-training-curve.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses
@@ -57,13 +73,13 @@ Jiahang Lin\*, **Shichun Liu**\*, Chengjun Pan\*, Lizhi Lin, Shihan Dou, Xuanjin
 
 - AHE is an observability stack for the automatic optimization of coding-agent harnesses, with three pillars: component observability (NexAU), experience observability (Agent Debugger), and decision observability (evidence-driven Evolve Agent).
 - Without changing the model, AHE pushes Terminal-bench 2 from 69.7% to 77.0% across iterations, with strong cross-task and cross-model generalization.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.25850) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/china-qijizhifeng/agentic-harness-engineering) \| [![](https://img.shields.io/badge/Blog-fff?logo=readthedocs&logoColor=000)](/blog/2026/04/agentic-harness-eng-en/)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.25850) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/china-qijizhifeng/agentic-harness-engineering) \| [![](https://img.shields.io/badge/Blog-fff?logo=readthedocs&logoColor=000)](/blog/2026/04/agentic-harness-eng-en/) \| [![](https://img.shields.io/badge/News-fff?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/ObREWAzbx9znsfuz1r4ZuQ)
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='../images/evpo-overview.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 27 Submission</div><img src='../images/evpo-overview.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### EVPO: Explained Variance Policy Optimization for Adaptive Critic Utilization
@@ -72,7 +88,7 @@ Chengjun Pan\*, **Shichun Liu**\*, Jiahang Lin\*, Dingwei Zhu, Jiazheng Zhang, S
 
 - We cast baseline selection in LLM post-training as a Kalman filtering problem, unifying PPO and GRPO as two extremes of the Kalman gain, and prove that the sign of explained variance (EV) is the exact boundary separating the variance-reducing from the variance-inflating critic regime.
 - EVPO adaptively switches between critic-based and batch-mean advantage estimation per step based on EV sign, achieving the best results across Sokoban, FrozenLake, WebShop, and MATH.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.19485)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2604.19485) \| [![](https://img.shields.io/badge/Blog-fff?logo=readthedocs&logoColor=000)](https://dawning-road.github.io/blog/evpo)
 
 </div>
 </div>
@@ -87,7 +103,7 @@ Deming Ding\*, **Shichun Liu**\*, Enhui Yang\*, Jiahang Lin\*, Ziying Chen, Shih
 
 - Modern coding scaffolds turn LLMs into capable software agents, but their ability to follow scaffold-specified instructions remains under-examined. OctoBench benchmarks scaffold-aware instruction following in repository-grounded agentic coding.
 - OctoBench includes 34 environments and 217 tasks under three scaffold types, with 7,098 objective checklist items. We release an automated observation-and-scoring toolkit for full trajectories and fine-grained checks.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2601.10343) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/MiniMax-AI/mini-vela)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2601.10343) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/MiniMax-AI/mini-vela) \| [![](https://img.shields.io/badge/News-fff?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/nPkbL77tw-jzq5y5XaFO2A)
 
 </div>
 </div>
@@ -103,7 +119,7 @@ Yuyang Hu<small>†</small>, **Shichun Liu**<small>†</small>, Yanwei Yue<small
 
 - Memory serves as the cornerstone of foundation model-based agents, underpinning their ability to perform long-horizon reasoning, adapt continually, and interact effectively with complex environments.
 - We provide a comprehensive overview through three unified lenses: Forms, Functions, and Dynamics.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.13564) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![GitHub Repo stars](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List) \| [![Semantic Scholar Citations](https://img.shields.io/badge/dynamic/json?label=Citations&query=%24.citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd362b7619fcd2df4241696a19aec95961b8a729c%3Ffields%3DcitationCount&logo=semanticscholar&cacheSeconds=3600)](https://www.semanticscholar.org/paper/d362b7619fcd2df4241696a19aec95961b8a729c) \| [![](https://img.shields.io/badge/Blog-fff?logo=xiaohongshu&logoColor=FF2442)](https://www.xiaohongshu.com/discovery/item/69427b8e000000001b023288?source=webshare&xhsshare=pc_web&xsec_token=ABng7EtxkaQGMXTBKE23fzy2OLIRXgeVqKSp9cTzQD9YU=&xsec_source=pc_share) 
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.13564) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ![GitHub Repo stars](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List) \| [![Semantic Scholar Citations](https://img.shields.io/badge/dynamic/json?label=Citations&query=%24.citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd362b7619fcd2df4241696a19aec95961b8a729c%3Ffields%3DcitationCount&logo=semanticscholar&cacheSeconds=3600)](https://www.semanticscholar.org/paper/d362b7619fcd2df4241696a19aec95961b8a729c) \| [![](https://img.shields.io/badge/Blog-fff?logo=xiaohongshu&logoColor=FF2442)](https://www.xiaohongshu.com/discovery/item/69427b8e000000001b023288?source=webshare&xhsshare=pc_web&xsec_token=ABng7EtxkaQGMXTBKE23fzy2OLIRXgeVqKSp9cTzQD9YU=&xsec_source=pc_share) \| [![](https://img.shields.io/badge/News-fff?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/Ud2mSYXM6sFnHK_JR3U6bg)
 
 </div>
 </div>
@@ -119,7 +135,7 @@ Nex-AGI Team: Yuxuan Cai, Lu Chen, ..., **Shichun Liu**, ..., Xuanjing Huang, Xi
 
 - We introduce a comprehensive method designed to systematically scale the diversity and complexity of interactive environments through three orthogonal dimensions: Complexity (NexAU), Diversity (NexA4A), and Fidelity (NexGAP).
 - Nex-N1 consistently outperforms SOTA open-source models and achieves competitive performance against frontier proprietary models on complex agentic tasks (SWE-bench, tau2).
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.04987)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2512.04987) \| [![](https://img.shields.io/badge/Nex--N2-fff?logo=huggingface&logoColor=000)](https://huggingface.co/collections/nex-agi/nex-n2) \| [![](https://img.shields.io/badge/News-fff?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/0oYevRBT8PPxG5hudOXxug)
 
 </div>
 </div>
@@ -136,7 +152,7 @@ Shihan Dou, Ming Zhang, Chenhao Huang, Jiayi Chen, Feng Chen, **Shichun Liu**, Y
 
 - We introduce **EvaLearn**, a benchmark to evaluate the learning capability of LLMs through sequential problem-solving, where models learn from prior experience.
 - It features 648 problems in 182 sequences and five metrics, revealing that static ability doesn't always correlate with learning capability, thus offering a new dimension for model evaluation.
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2506.02672) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/ByteDance-Seed/EvaLearn)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/abs/2506.02672) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/ByteDance-Seed/EvaLearn) \| [![](https://img.shields.io/badge/News-fff?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/2yOxC3ygkmEahr2NilzJ2A)
 
 </div>
 </div>
@@ -154,7 +170,7 @@ Shihan Dou\*, **Shichun Liu**\*, Yuming Yang\*, Yicheng Zou\*, Yunhua Zhou, Shuh
 
 - Say goodbye to reward models with poor generalization! POLAR (Policy Discriminative Learning) is a groundbreaking pre-training paradigm that trains reward models to distinguish policy distributions, eliminating heavy reliance on human preference data!
 - Highly scalable and tailored for Reinforcement Fine-tuning (RFT)! POLAR assigns rewards based on ground truths, seamlessly integrating into the RFT framework and significantly reducing reward hacking across general tasks!
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.05197) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/InternLM/POLAR) ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/POLAR) \| [![](https://img.shields.io/badge/Model-fff?logo=huggingface&logoColor=000)](https://huggingface.co/internlm/POLAR-7B)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2507.05197) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/InternLM/POLAR) ![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/POLAR) \| [![](https://img.shields.io/badge/Model-fff?logo=huggingface&logoColor=000)](https://huggingface.co/internlm/POLAR-7B) \| [![](https://img.shields.io/badge/News-fff?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/IAJ9cmVa9QszodhYIdiknQ)
 </div>
 </div>
 
@@ -260,6 +276,6 @@ Junjie Ye\*, Xuanting Chen\*, Nuo Xu, Can Zu, Zekai Shao, **Shichun Liu**, Yuhan
 
 # 🌏 Visitors
 
-<div style="width: 15%; margin: auto;">
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=CbEyd1rFdqDWDFWN0o0y_IErdS84uYJElpB6uRCQPyI"></script>
+<div style="width: 30%; margin: auto;">
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=zbq285_vV4ZsI_wNWR3GBf4eyG11UvC5eDNTjYKyz-c'></script>
 </div>
